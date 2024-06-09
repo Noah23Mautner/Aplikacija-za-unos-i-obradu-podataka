@@ -1,0 +1,10 @@
+C:\Users\Mautner\source\repos\Aplikacija za unos i obradu podataka\Aplikacija za unos i obradu podataka\bin\Debug\Aplikacija za unos i obradu podataka.exe.config
+C:\Users\Mautner\source\repos\Aplikacija za unos i obradu podataka\Aplikacija za unos i obradu podataka\bin\Debug\Aplikacija za unos i obradu podataka.exe
+C:\Users\Mautner\source\repos\Aplikacija za unos i obradu podataka\Aplikacija za unos i obradu podataka\bin\Debug\Aplikacija za unos i obradu podataka.pdb
+C:\Users\Mautner\source\repos\Aplikacija za unos i obradu podataka\Aplikacija za unos i obradu podataka\obj\Debug\Aplikacija za unos i obradu podataka.csproj.AssemblyReference.cache
+C:\Users\Mautner\source\repos\Aplikacija za unos i obradu podataka\Aplikacija za unos i obradu podataka\obj\Debug\Aplikacija_za_unos_i_obradu_podataka.Form1.resources
+C:\Users\Mautner\source\repos\Aplikacija za unos i obradu podataka\Aplikacija za unos i obradu podataka\obj\Debug\Aplikacija_za_unos_i_obradu_podataka.Properties.Resources.resources
+C:\Users\Mautner\source\repos\Aplikacija za unos i obradu podataka\Aplikacija za unos i obradu podataka\obj\Debug\Aplikacija za unos i obradu podataka.csproj.GenerateResource.cache
+C:\Users\Mautner\source\repos\Aplikacija za unos i obradu podataka\Aplikacija za unos i obradu podataka\obj\Debug\Aplikacija za unos i obradu podataka.csproj.CoreCompileInputs.cache
+C:\Users\Mautner\source\repos\Aplikacija za unos i obradu podataka\Aplikacija za unos i obradu podataka\obj\Debug\Aplikacija za unos i obradu podataka.exe
+C:\Users\Mautner\source\repos\Aplikacija za unos i obradu podataka\Aplikacija za unos i obradu podataka\obj\Debug\Aplikacija za unos i obradu podataka.pdb
